@@ -2,6 +2,7 @@ name = NextEuropa Varnish
 description = Custom Varnish rules and actions.
 core = 7.x
 package = NextEuropa
+version = v1.0.5
 
 dependencies[] = workbench_moderation
 dependencies[] = entity
